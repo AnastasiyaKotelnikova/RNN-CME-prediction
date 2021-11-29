@@ -1,5 +1,5 @@
 ## Predicting Coronal Mass Ejections Using SDO/HMI Vector Magnetic Data Products and Recurrent Neural Networks
-[![DOI](https://github.com/ccsc-tools/zenodo_icons/blob/main/icons/rnn-cme-prediction.svg)](https://doi.org/10.5281/zenodo.5643647)
+[![DOI](https://github.com/ccsc-tools/zenodo_icons/blob/main/icons/rnn-cme-prediction.svg)](https://zenodo.org/badge/latestdoi/416091196)
 
 ## Authors
 
