@@ -20,7 +20,7 @@ This notebook is Binder enabled and can be run on [mybinder.org](https://mybinde
 
 ### ccsc_CMEpredict.ipynb (Jupyter Notebook for CMEPredict)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HyShai/RNN-CME-prediction/binder?labpath=ccsc_CMEpredict.ipynb) 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ccsc-tools/RNN-CME-prediction/HEAD?labpath=ccsc_CMEpredict.ipynb)
 
 Please note that starting Binder might take some time to create and start the image.
 
