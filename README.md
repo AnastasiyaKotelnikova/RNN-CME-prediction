@@ -39,7 +39,7 @@ Run `pip install -r requirements.txt` (recommended), or manually install the fol
 | scikit-learn | 1.0.1  | Neural network libraries       |
 | matplotlib   | 3.5.2   | Plotting and graphs            |
 | tensorflow-gpu   | 2.8.0  | Neural network libraries       |
-| keras        | 2.2.4   | Artificial neural networks API |
+| keras        | 2.8.0   | Artificial neural networks API |
 
 
 ## References
