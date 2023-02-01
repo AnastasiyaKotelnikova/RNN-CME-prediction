@@ -28,7 +28,7 @@ For the latest updates of CMEPredict refer to [https://github.com/deepsuncode/RN
 
 ## Installation on local machine
 
-Requires `Python==3.9.x` (was tested on 3.9.7)
+Requires `Python==3.9.x` (was tested on 3.9.13)
 
 Run `pip install -r requirements.txt` (recommended), or manually install the following packages and specified versions:
 
@@ -36,10 +36,10 @@ Run `pip install -r requirements.txt` (recommended), or manually install the fol
 |--------------|---------|--------------------------------|
 | numpy       | 1.21.6  | Data processing                  |
 | pandas       | 1.4.4   | Data analysis                  |
-| scikit-learn | 1.0.1  | Neural network libraries       |
+| scikit-learn | 1.0.2  | Neural network libraries       |
 | matplotlib   | 3.5.2   | Plotting and graphs            |
-| tensorflow-gpu   | 2.8.0  | Neural network libraries       |
-| keras        | 2.8.0   | Artificial neural networks API |
+| tensorflow   | 2.11.0  | Neural network libraries       |
+| keras        | 2.11.0   | Artificial neural networks API |
 
 
 ## References
