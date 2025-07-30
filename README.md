@@ -30,7 +30,7 @@ keras	2.11.0	High-level neural network API
 
 Original Project Source
 This notebook is adapted from the CMEPredict tool published here:
-🔗 https://github.com/deepsuncode/RNN-CME-prediction
+https://github.com/deepsuncode/RNN-CME-prediction
 DOI: 10.5281/zenodo.5643647
 
 Full paper:
